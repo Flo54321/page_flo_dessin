@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 
@@ -78,5 +77,4 @@ elif option == "Biscuit Kruger":
 else:
     st.write("You selected:", option)
     st.image("NAN.png")
->>>>>>> 4b2bf8e543d559780ed5c6484dca13a2d9c5000a
     
